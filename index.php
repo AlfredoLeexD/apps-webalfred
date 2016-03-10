@@ -21,34 +21,35 @@
 					<span class="icon-bar"></span>
 				</button>
 				<a class="navbar-brand" href="#">Alfred-Music</a>
+				<img src ="public/imagenes/x240-MpM.jpg" width="100">
 			</div>
 	
 			<!-- Collect the nav links, forms, and other content for toggling -->
 			<div class="collapse navbar-collapse navbar-ex1-collapse">
 
 				<ul class="nav navbar-nav">
-					<li class="active"><a href="#">Link</a></li>
-					<li><a href="#">Link</a></li>
+					<li class="active"><a href="http://www.entrecristianos.com/Seccion/Musica-Cristiana-en-Ingles">TOP DE MUSICAS</a></li>
 				</ul>
 				<form class="navbar-form navbar-left" role="search">
 					<div class="form-group">
-						<input type="text" class="form-control" placeholder="">
-					</div>
-					<button type="submit" class="btn btn-default">Submit</button>
-				</form>
-				</nav>
-				<ul class="nav navbar-nav navbar-right">
-					<li><a href="#">Link</a></li>
+						<input type="text" class="form-control" placeholder="aa">
+						<ul class="nav navbar-nav navbar-right">
 					<li class="dropdown">
-						<a href="#" class="dropdown-toggle" data-toggle="dropdown">Dropdown <b class="caret"></b></a>
+						<a href="#" class="dropdown-toggle" data-toggle="dropdown">VER TOP DE TODOS LOS AÑOS<b class="caret"></b></a>
 						<ul class="dropdown-menu">
-							<li><a href="#">Action</a></li>
-							<li><a href="#">Another action</a></li>
-							<li><a href="#">Something else here</a></li>
-							<li><a href="#">Separated link</a></li>
+							<li><a href="#">TOP MUSICAS 2012</a></li>
+							<li><a href="#">TOP MUSICAS 2013</a></li>
+							<li><a href="#">TOP MUSICAS 2014</a></li>
+							<li><a href="#">TOP MUSICAS 2015</a></li>
 						</ul>
 					</li>
 				</ul>
+					</div>
+					<button type="submit" class="btn btn-default">PRIMERA PAGINA</button>
+
+				</form>
+				</nav>
+				
 			</div><!-- /.navbar-collapse -->
 		</div>
 	</nav>	
@@ -67,9 +68,8 @@
 				<img data-src="public/imagenes/1.jpg" alt="First slide" src="public/imagenes/1.jpg" width="911">
 				<div class="container">
 					<div class="carousel-caption">
-						<h1></font>ESCUCHA LA MEJOR MUSICA DE NEWSBOYS </h1>
-						
-						<p>ASD</p>
+						<h1>ESCUCHA LA MEJOR MUSICA DE NEWSBOYS</h1>
+						<p></p>
 
 						<p><a class="btn btn-lg btn-primary" a href="http://newsboys.com/loveriot/" target="http://newsboys.com/loveriot/" role="button">PAGINA OFICIAL NEWSBOYS</a></p>
 						<p><a class="btn btn-lg btn-primary" href="http://www.atadoacristo.com/newsboys.html">ESCUCHAR MUSICA AQUI</a></p>
